@@ -53,12 +53,12 @@ telecom-churn/
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv   # download from Kaggle
 ├── src/
-│   ├── data.py        # load, clean, feature engineering, encode
-│   ├── eda.py         # EDA plots and key statistics
-│   └── train.py       # model training, evaluation, SHAP
+│   ├── data.py        
+│   ├── eda.py     
+│   └── train.py       
 ├── app/
-│   └── app.py         # Streamlit prediction UI
-├── models/            # saved model files (generated after training)
+│   └── app.py         
+├── models/            
 ├── requirements.txt
 └── README.md
 ```
