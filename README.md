@@ -109,5 +109,4 @@ Both models are interpretable — Logistic Regression via coefficients, XGBoost 
 
 ## Author
 Dave Avina· [GitHub](https:/srdave3/github.com)
-## Author
-Your Name · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+
